@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shmyakopedia/static/css/main.a7b441d9.css",
+    "main.js": "/shmyakopedia/static/js/main.e7f47122.js",
+    "static/js/453.dcd05ff3.chunk.js": "/shmyakopedia/static/js/453.dcd05ff3.chunk.js",
+    "static/media/bkg-page-image.png": "/shmyakopedia/static/media/bkg-page-image.fed9ed7eedb1fd50bb79.png",
+    "static/media/shmyak-umni.png": "/shmyakopedia/static/media/shmyak-umni.2b3ec3db4944333e5961.png",
+    "static/media/bkg-section-image.png": "/shmyakopedia/static/media/bkg-section-image.9f4a7f54526b7610eb5a.png",
+    "static/media/micro-shmyak.jpg": "/shmyakopedia/static/media/micro-shmyak.e9940b8c1738f655c47f.jpg",
+    "static/media/shmyak-papa.jpg": "/shmyakopedia/static/media/shmyak-papa.251ba2fc3c6a4b5a2a68.jpg",
+    "static/media/shmyak-bredoviy.jpg": "/shmyakopedia/static/media/shmyak-bredoviy.7634074894c4e1865b84.jpg",
+    "static/media/Nunito-BoldItalic.ttf": "/shmyakopedia/static/media/Nunito-BoldItalic.4fd1245b21d2c288f4d2.ttf",
+    "static/media/Nunito-Italic.ttf": "/shmyakopedia/static/media/Nunito-Italic.f9e1db7cae78b5487e3d.ttf",
+    "static/media/shmyak-bandit.jpg": "/shmyakopedia/static/media/shmyak-bandit.96cd49915a1ba41e0cef.jpg",
+    "static/media/Nunito-Regular.ttf": "/shmyakopedia/static/media/Nunito-Regular.bb0b7104629b11c4f366.ttf",
+    "static/media/Nunito-Bold.ttf": "/shmyakopedia/static/media/Nunito-Bold.90e515956321985b6b04.ttf",
+    "static/media/shmyak-mafia.jpg": "/shmyakopedia/static/media/shmyak-mafia.09ad4c504b1311e608d5.jpg",
+    "static/media/shmyak-koldun.jpg": "/shmyakopedia/static/media/shmyak-koldun.f0defa2363f20bf79d67.jpg",
+    "static/media/shmyak-hero.jpg": "/shmyakopedia/static/media/shmyak-hero.87a85cf453a5bdb7c61e.jpg",
+    "static/media/shmyak-latniy.jpg": "/shmyakopedia/static/media/shmyak-latniy.a0f580f055114ce1db9a.jpg",
+    "static/media/shmyak-volina.jpg": "/shmyakopedia/static/media/shmyak-volina.b27331c52c50d55f1994.jpg",
+    "static/media/shmyak-doedala.jpg": "/shmyakopedia/static/media/shmyak-doedala.9327af572ee927d7be51.jpg",
+    "static/media/Czizh-Feather.ttf": "/shmyakopedia/static/media/Czizh-Feather.b874c835138895376f12.ttf",
+    "static/media/Czizh-Body.ttf": "/shmyakopedia/static/media/Czizh-Body.4cee4f4a3385bddc39b1.ttf",
+    "static/media/Czizh-Wing.ttf": "/shmyakopedia/static/media/Czizh-Wing.8fcc0ced92c5b511a196.ttf",
+    "index.html": "/shmyakopedia/index.html",
+    "main.a7b441d9.css.map": "/shmyakopedia/static/css/main.a7b441d9.css.map",
+    "main.e7f47122.js.map": "/shmyakopedia/static/js/main.e7f47122.js.map",
+    "453.dcd05ff3.chunk.js.map": "/shmyakopedia/static/js/453.dcd05ff3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b441d9.css",
+    "static/js/main.e7f47122.js"
+  ]
+}
