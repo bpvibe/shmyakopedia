@@ -1,0 +1,155 @@
+.StoryPage {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.storyBlock {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  min-height: 500px;
+
+  &:nth-child(odd) {
+    .storyImage {
+      order: 1;
+    }
+    .storyText {
+      order: 2;
+    }
+  }
+
+  &:nth-child(even) {
+    .storyImage {
+      order: 2;
+    }
+    .storyText {
+      order: 1;
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 40px;
+    min-height: auto;
+
+    .storyImage,
+    .storyText {
+      order: 0 !important;
+      width: 100%;
+    }
+  }
+}
+
+.storyImage {
+  flex: 1;
+  min-width: 500px;
+  max-width: 700px;
+  height: 550px;
+  background-color: #f0f0f0;
+  border-radius: 25px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 1200px) {
+    height: 500px;
+    min-width: 450px;
+    max-width: 600px;
+  }
+
+  @media (max-width: 992px) {
+    height: 450px;
+    min-width: 400px;
+    max-width: 550px;
+  }
+
+  @media (max-width: 768px) {
+    height: 400px;
+    min-width: auto;
+    max-width: 100%;
+  }
+
+  @media (max-width: 480px) {
+    height: 350px;
+  }
+}
+
+.storyText {
+  flex: 1;
+  padding: 40px;
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+
+  h2 {
+    font-size: 38px;
+    color: #595954;
+    margin-bottom: 30px;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+
+  p {
+    font-size: 22px;
+    line-height: 1.7;
+    color: #333;
+  }
+
+  @media (max-width: 1200px) {
+    h2 {
+      font-size: 34px;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  @media (max-width: 992px) {
+    padding: 35px;
+
+    h2 {
+      font-size: 30px;
+      margin-bottom: 25px;
+    }
+
+    p {
+      font-size: 19px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding: 30px;
+
+    h2 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  }
+
+  @media (max-width: 480px) {
+    padding: 25px;
+
+    h2 {
+      font-size: 24px;
+    }
+
+    p {
+      font-size: 17px;
+    }
+  }
+}
