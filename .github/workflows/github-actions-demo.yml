@@ -1,4 +1,4 @@
-name: Deploy React App to GitHub Pages
+name: Deploy React App to GH Pages
 
 on:
   push:
@@ -32,7 +32,7 @@ jobs:
       - name: Build React app
         run: npm run build
         env:
-          CI: false 
+          CI: false
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
