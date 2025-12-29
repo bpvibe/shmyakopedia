@@ -12,13 +12,11 @@ const MainPage = () => {
 
     return (
         <div className={styles.MainPage}>
-            <div className={styles['main-page__content']}>
                 <img
                     className={styles['main-page__content-image']}
                     src={shmyakImage}
                     alt="Умный кот мягкой и плотной консистенции"
                 />
-            </div>
             <div className={styles['main-page__content-text']}>
                 <p> Шмяк!</p>
                 <p>Что вы представляете, слыша это слово? Каково оно на «вкус»?</p>
