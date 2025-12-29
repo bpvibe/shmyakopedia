@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shmyakopedia/static/css/main.a7b441d9.css",
-    "main.js": "/shmyakopedia/static/js/main.e7f47122.js",
+    "main.css": "/shmyakopedia/static/css/main.24c62384.css",
+    "main.js": "/shmyakopedia/static/js/main.6387ba07.js",
     "static/js/453.dcd05ff3.chunk.js": "/shmyakopedia/static/js/453.dcd05ff3.chunk.js",
     "static/media/bkg-page-image.png": "/shmyakopedia/static/media/bkg-page-image.fed9ed7eedb1fd50bb79.png",
     "static/media/shmyak-umni.png": "/shmyakopedia/static/media/shmyak-umni.2b3ec3db4944333e5961.png",
@@ -24,12 +24,12 @@
     "static/media/Czizh-Body.ttf": "/shmyakopedia/static/media/Czizh-Body.4cee4f4a3385bddc39b1.ttf",
     "static/media/Czizh-Wing.ttf": "/shmyakopedia/static/media/Czizh-Wing.8fcc0ced92c5b511a196.ttf",
     "index.html": "/shmyakopedia/index.html",
-    "main.a7b441d9.css.map": "/shmyakopedia/static/css/main.a7b441d9.css.map",
-    "main.e7f47122.js.map": "/shmyakopedia/static/js/main.e7f47122.js.map",
+    "main.24c62384.css.map": "/shmyakopedia/static/css/main.24c62384.css.map",
+    "main.6387ba07.js.map": "/shmyakopedia/static/js/main.6387ba07.js.map",
     "453.dcd05ff3.chunk.js.map": "/shmyakopedia/static/js/453.dcd05ff3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7b441d9.css",
-    "static/js/main.e7f47122.js"
+    "static/css/main.24c62384.css",
+    "static/js/main.6387ba07.js"
   ]
 }
